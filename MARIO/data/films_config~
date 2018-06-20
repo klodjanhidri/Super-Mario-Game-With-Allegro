@@ -1,0 +1,36 @@
+"mario_walking_small" "data/mario.png"
+8
+1 40 14 56
+16 40 27 56
+29 40 40 56
+46 40 58 56
+63 40 75 56
+77 40 92 56
+94 40 105 56
+107 40 120 56
+
+"mario_jumping_small" "data/mario.png"
+2
+10 22 26 38
+63 22 79 38
+
+"mario_walking_big" "data/mario.png"
+8
+1 92 17 124
+19 93 32 124
+35 93 51 124
+54 92 68 124
+72 92 88 124
+90 93 106 124
+108 93 122 124
+124 92 140 124
+
+"mario_jumping_big" "data/mario.png"
+2
+6 58 22 90
+61 58 77 90
+
+"mario_crouching_big" "data/mario.png"
+2
+17 126 33 148
+72 126 88 148
